@@ -125,6 +125,7 @@
 + Unsafe Exposure Analysis of Mobile In-App Advertisements, WISEC 2012 (tool: AdRisk)
 + AdSplit: Separating Smartphone Advertising from Applications, USENIX Security 2012 (tool: AdSplit)
 + AdDroid: Privilege Separation for Applications and Advertisers in Android, AsiaCCS 2012 (tool: AdDroid)
++ [MAdFraud: Investigating Ad Fraud in Android Applications, MobiSys 2014](http://web.cs.ucdavis.edu/~hchen/paper/mobisys2014.pdf)  
 + DECAF: Detecting and Characterizing Ad Fraud in Mobile Apps, NSDI 2014 (tool: DECAF)
 + An Investigation into the Use of Common Libraries in Android Apps, arXir 2015
 + An Empirical Study of Mobile Ad Targeting, arXir 2015
